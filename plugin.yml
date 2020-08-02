@@ -1,0 +1,35 @@
+name: FirePixlo
+main: me.abwasser.FirePixlo.Main
+version: 1.0
+author: Abwasser
+api-version: 1.13
+
+
+commands:
+     get:
+     heal:
+     rank:
+     world:
+     sysloc:
+     server:
+     dev:
+     varo:
+     packet:
+     playertime:
+     rec:
+     play:
+     stopplugin:
+     npc:
+     map:
+     hub:
+        aliases: [l, lobby, quit, bye]
+     pluginrule:
+     shutdown:
+     start:
+     fov:
+     abwassermaps:
+     cameraslide:
+     eft:
+        
+
+     
