@@ -1,6 +1,6 @@
 # FirePixlo
 ### What is FirePixlo?
-It's a [PaperMC](https://github.com/PaperMC/Paper) plugin, which can create custom World, which behave like standalone servers. It also adds new items, commands, game-mechanics, etc.
+It's a [PaperMC](https://github.com/PaperMC/Paper) plugin, which can create custom worlds, which behave like standalone servers. It also adds new items, commands, game-mechanics, etc.
 ### Commands:
 
 **Tip** most commands can be tab-completed!
